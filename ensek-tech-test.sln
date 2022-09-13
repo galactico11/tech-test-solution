@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ensek.Web", "Ensek.Web\Ensek.Web.csproj", "{FD2481E1-0CFE-4E05-9D69-ABA084AE47A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ensek.Tests", "Ensek.Tests\Ensek.Tests.csproj", "{ADEACAD8-EC53-417C-970A-F3547748D16F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ensek.Data", "Ensek.Data\Ensek.Data.csproj", "{CC719591-9CF8-4378-86D0-1F18682FF3E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ensek.Business", "Ensek.Business\Ensek.Business.csproj", "{9C21697B-03B8-4036-96FD-ED2BE0341F76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2481E1-0CFE-4E05-9D69-ABA084AE47A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2481E1-0CFE-4E05-9D69-ABA084AE47A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2481E1-0CFE-4E05-9D69-ABA084AE47A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2481E1-0CFE-4E05-9D69-ABA084AE47A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADEACAD8-EC53-417C-970A-F3547748D16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADEACAD8-EC53-417C-970A-F3547748D16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADEACAD8-EC53-417C-970A-F3547748D16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADEACAD8-EC53-417C-970A-F3547748D16F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC719591-9CF8-4378-86D0-1F18682FF3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC719591-9CF8-4378-86D0-1F18682FF3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC719591-9CF8-4378-86D0-1F18682FF3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC719591-9CF8-4378-86D0-1F18682FF3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C21697B-03B8-4036-96FD-ED2BE0341F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C21697B-03B8-4036-96FD-ED2BE0341F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C21697B-03B8-4036-96FD-ED2BE0341F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C21697B-03B8-4036-96FD-ED2BE0341F76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
