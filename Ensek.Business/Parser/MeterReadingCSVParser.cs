@@ -98,7 +98,7 @@ public class MeterReadingCSVParser : IMeterReadingCSVParser
             return false;
         }
 
-        return meterReading.Reading > 0 && meterReading.Reading < MAX_READING;
+        return meterReading.Reading > 0 && meterReading.Reading <= MAX_READING;
     }
 }
 
